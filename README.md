@@ -9,9 +9,9 @@
 * Vue 2
 * Vuetify
 
-![Screenshot](https://github.com/lnsflive/TypingTest/blob/master/public/img/ss1.jpg)
+![Screenshot](https://github.com/lnsflive/TypeTest/blob/master/public/img/ss1.jpg)
 
-![Screenshot](https://github.com/lnsflive/TypingTest/blob/master/public/img/ss2.jpg)
+![Screenshot](https://github.com/lnsflive/TypeTest/blob/master/public/img/ss2.jpg)
 
 ## Project setup
 ```
