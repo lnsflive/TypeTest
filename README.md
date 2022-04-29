@@ -1,24 +1,19 @@
-# typetest
+# TypingTest
+
+### This Speed Typing Test was made with Vue 2 and Vuetify.
+
+*Play my game at: [Typing Speed Test](https://jaimegonzalezjr.com/games/typetest).*
+
+
+## **Built With**
+* Vue 2
+* Vuetify
+
+![Screenshot](https://github.com/lnsflive/TypingTest/blob/master/public/img/ss1.jpg)
+
+![Screenshot](https://github.com/lnsflive/TypingTest/blob/master/public/img/ss2.jpg)
 
 ## Project setup
 ```
 yarn install
 ```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
