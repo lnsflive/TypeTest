@@ -2,7 +2,7 @@
 
 ### This Speed Typing Test was made with Vue 2 and Vuetify.
 
-*Play my game at: [Typing Speed Test](https://jaimegonzalezjr.com/games/typetest).*
+*Try it out yourself at: [Typing Speed Test](https://jaimegonzalezjr.com/games/typetest).*
 
 
 ## **Built With**
